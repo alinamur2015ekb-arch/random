@@ -1,2 +1,2 @@
-# random
+# miny_python
 Рандомайзер
